@@ -1,5 +1,4 @@
 
-
 # Virtual_Campus_Tour: Discover NYUAD
 
 eCampusExplorer is an immersive virtual reality (VR) solution designed to offer a virtual tour of the New York University Abu Dhabi (NYUAD) campus. This project utilizes the Oculus Meta Quest VR headsets and Unity to create an interactive, realistic, and accessible campus exploration experience. Users from all over the world can explore the NYUAD campus without needing to visit physically.
@@ -127,7 +126,9 @@ eCampusExplorer is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ### Additional Resources
 
 - Project Demo: [Video](https://drive.google.com/file/d/1NgAJjjirQ8GJ3INGnYMxg49Zq0TtMyD8/view?usp=sharing)
-- Project Files: [Google Drive Link]([https://drive.google.com/file/d/1BvI5djKg6iHXhJ8XMbfT0xbi6Bv0-LT2/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1kBIRchyLqSxlE2H5qJGEwtiY0DTEuwxX))
+
+
+- Project Files: [Google Drive Link](https://drive.google.com/drive/u/0/folders/1kBIRchyLqSxlE2H5qJGEwtiY0DTEuwxX)
 
 ---
 
