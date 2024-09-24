@@ -126,9 +126,8 @@ eCampusExplorer is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ### Additional Resources
 
-- Project Demo: [YouTube Video](https://www.youtube.com/watch?v=dlHD-bC170Q)
+- Project Demo: [Video]([https://www.youtube.com/watch?v=dlHD-bC170Q](https://drive.google.com/file/d/1NgAJjjirQ8GJ3INGnYMxg49Zq0TtMyD8/view?usp=sharing))
 - Project Files: [Google Drive Link](https://drive.google.com/file/d/1BvI5djKg6iHXhJ8XMbfT0xbi6Bv0-LT2/view?usp=sharing)
 
 ---
 
-Let me know if you need any further modifications!
