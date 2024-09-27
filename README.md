@@ -84,19 +84,7 @@ eCampusExplorer/
 └── LICENSE               # License file
 ```
 
-## Team Members
 
-- **Aman Sunesh** (as18181)  
-  - Major Role: Coding and Programming (Unity & C#)
-  - Minor Role: Data Collection & Research
-  
-- **Ashmit Shankar Mukherjee** (asm8879)  
-  - Major Role: Audio Work & Multimedia Content Creation
-  - Minor Role: Graphic Design & UI Enhancements
-  
-- **Richmond Agyenim-Boateng** (ra4150)  
-  - Major Role: 360 Degree Picture Capturing  
-  - Minor Role: Script and Dialogue Writing
 
 ## Contributing
 
