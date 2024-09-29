@@ -12,7 +12,7 @@ eCampusExplorer is an immersive virtual reality (VR) solution designed to offer 
 5. [Project Structure](#project-structure)
 6. [Team Members](#team-members)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 
@@ -107,7 +107,7 @@ We welcome contributions! If you’d like to contribute to eCampusExplorer, plea
 
 ## License
 
-eCampusExplorer is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
